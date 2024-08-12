@@ -1,8 +1,6 @@
 # Essential-Medicines-Kenya
 Investigating essential medicines that are not manufactured locally
 
-Article
-
 <h1>Candidate Products for local Phamaceutical Manufacturing</h1> 
 
 <p> 
@@ -32,3 +30,24 @@ Article
 <p>
   Manufacturing pharmaceuticals and medical commodities in Kenya remains an untapped opportunity for local and foreign investors. Apart from the increasing demand for medical services—pushed by a growing population, expanding middle class, and public policy towards universal access, Kenya is well placed to serve as a manufacturing hub for the 1 billion plus Sub-Saharan African population. This review uncovered over 40 drugs Kenya-based manufacturers may target for import substitution. Discerning investors should triangulate the information with market size figures.
 </p>
+
+<table>
+<caption> Table 1: Selected INNs Eligible for Biowaver </caption>
+<tr>
+  <th>Formulation</th>
+  <th>BCS Class I</th>
+  <th>BCS Class III*</th>
+</tr>
+<tr>
+  <td>Immediate release solid containing one API/INN</td>
+  <td>ketorolac, labetalol, metoprolol, moxifloxacin, dihydrocodeine, letrozole, trimetazidine, verapamil, levofloxacin, tranexamic acid, warfarin, donepezil</td>
+  <td>clindamycin, lenalidomide, pantoprazole, pyridostigmine, tenofovir alafenamide, misoprostol, linagliptin, pyridostigmine</td>
+</tr>
+<tr>
+  <td>Immediate-release solid fixed dose combination</td>
+  <td></td>
+  <td>artesunate + pyronaridine, levodopa + carbidopa, perindopril + amlodipine, empagliflozin + metformin, mifepristone + misoprostol, sitagliptin + metformin</td>
+</tr>
+  
+</table>
+<p><em>Note:</em> *Only very rapidly dissolving BCS Class III products are eligible for biowaiver. The intrinsic solubility of BCS III INNs was not checked.</p>
