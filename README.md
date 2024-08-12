@@ -1,7 +1,7 @@
 # Essential-Medicines-Kenya
 Investigating essential medicines that are not manufactured locally
 
-<h1>Candidate Products for local Phamaceutical Manufacturing</h1> 
+<h2>Candidate Products for local Phamaceutical Manufacturing</h1> 
 
 <p> 
   One point of convergence between the two leading coalitions in the 2022 election was the need to increase local manufacturing of medicines and medical devices. This resolve can only have been strengthened with the recent rapprochement of the groups and the still acute need to roll out universal health coverage, the sustainability of which rests on managing healthcare costs, with 20-60% of healthcare costs in developing countries attributed to medicines (Cameron et al., 2009). Increasing self-sufficiency in pharmaceuticals and medical devices offers other advantages, including creating quality jobs, import substitution, export promotion, and health security, particularly with the lessons of the COVID-19 pandemic when source markets blocked the export of essential drugs and active pharmaceutical ingredients, such as paracetamol. 
